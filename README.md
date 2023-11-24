@@ -18,6 +18,9 @@ This project is a static clone of the YouTube homepage, created using HTML and C
 
 ## Demo
 
+Live Link: [YouTube.com Clone](https://amrit-sharma-7.github.io/YouTubeHomePageClone/youtube.html)
+
+
 ![Demo](YouTubeCloneDemo-2.gif)
 
 
